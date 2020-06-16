@@ -1,0 +1,30 @@
+.portfolio-card {
+    max-width: 400px;
+}
+
+img{
+    height: 210px;
+}
+
+button{
+    background-color: transparent;
+}
+
+.row {
+    display: flex;
+    margin: 30px;
+}
+
+mat-card{
+    flex-grow: 2;
+    width: 300px;
+    margin: 20px;
+}
+
+h1{
+    font-size: 50px;
+}
+
+mat-card-title{
+    font-size: 50px;
+}

@@ -1,0 +1,48 @@
+.rounded-corners {
+    border-radius: 500px;
+    box-shadow: 5px 5px 5px #999;
+    height: auto;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.row {
+    display: flex;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.row-header{
+    margin-bottom: 10px;
+}
+  
+.column {
+    flex: 25%;
+    padding: 5px;
+    margin-bottom: 30px;
+    justify-content: center;
+}
+
+img{
+    margin-top: 25px;
+    margin-bottom: 35px;
+}
+
+h2{
+    font-size: 70px;
+    margin-bottom: 30px;
+}
+
+h4{
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 50px;
+}
+
+h5{
+    font-size: 25px;
+    margin-bottom: 25px;
+}
+
